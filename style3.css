@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    margin: 50px auto;
+}
+
+.form input{
+    margin-top: 8px;
+}
